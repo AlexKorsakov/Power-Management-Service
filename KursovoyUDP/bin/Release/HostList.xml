@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<treeview>
+  <node tag="1" val="Первый нод">
+    <node tag="" val="DESKTOP-VT9VHU4" />
+  </node>
+  <node tag="2" val="Второй нод" />
+  <node tag="" val="410">
+    <node tag="" val="IS-410-02" />
+  </node>
+  <node tag="" val="Home">
+    <node tag="" val="DESKTOP-VT9VHU4" />
+    <node tag="" val="WIN-PC2IJ2U5JKR" />
+  </node>
+</treeview>

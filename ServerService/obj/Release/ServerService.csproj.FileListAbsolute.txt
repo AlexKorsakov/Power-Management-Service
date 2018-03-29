@@ -1,0 +1,9 @@
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\bin\Release\ServerService.exe.config
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\bin\Release\ServerService.exe
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\bin\Release\ServerService.pdb
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Release\ServerService.ProjectInstaller.resources
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Release\ServerService.My_PowerMgmnt.resources
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Release\ServerService.csproj.GenerateResource.Cache
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Release\ServerService.exe
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Release\ServerService.pdb
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Release\ServerService.csprojResolveAssemblyReference.cache

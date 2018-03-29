@@ -1,0 +1,9 @@
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\bin\Debug\ServerService.exe.config
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\bin\Debug\ServerService.exe
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\bin\Debug\ServerService.pdb
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Debug\ServerService.ProjectInstaller.resources
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Debug\ServerService.My_PowerMgmnt.resources
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Debug\ServerService.csproj.GenerateResource.Cache
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Debug\ServerService.exe
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Debug\ServerService.pdb
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\ServerService\obj\Debug\ServerService.csprojResolveAssemblyReference.cache

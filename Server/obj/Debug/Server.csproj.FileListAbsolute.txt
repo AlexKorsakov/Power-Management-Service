@@ -1,0 +1,9 @@
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\bin\Debug\Server.exe
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\bin\Debug\Server.pdb
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\obj\Debug\Server.Serv.resources
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\obj\Debug\Server.exe
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\obj\Debug\Server.pdb
+E:\Учеба\7 семестр\ТПР\ЛБ\KursovoyUDP\Server\bin\Debug\Server.exe.config
